@@ -1,6 +1,6 @@
 # UAI - Programacion 1
 
-Proyectos de la materia Programacion 1, la cual curse y aprobe en el año 2019
+Proyectos de la materia Programacion 1, la cual curse y aprobe en el año 2020. 
 
 ## Descripcion
 
