@@ -31,4 +31,4 @@ Fecha de inicio: 10/08/2020, Fecha de Fin: 27/11/2020 Este curso forma parte del
 * **Matias Federico Martinez** - [matiasfmart](https://github.com/matiasfmart) 
 * **Website** - [matiasfmart.github.io/miPerfilWeb](https://matiasfmart.github.io/miPerfilWeb) 
 * **Linkedin** - [Matias Federico Martinez](https://www.linkedin.com/in/matiasfmart) 
-* **Instagram** - [@matiasf_mart](https://www.instagram.com/matiasf_mart) 
+* **Instagram** - [@matiasfmart](https://www.instagram.com/matiasfmart) 
