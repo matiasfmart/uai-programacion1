@@ -1,6 +1,6 @@
 # Proyectos Programacion 1 - UAI
 
-Proyectos de la materia Programacion 1, la cual curse y aprobe en el año 2020. 
+Proyectos de la materia Programacion 1, la cual curse y aprobe en el año 2020 donde utilizamos el framework .NET y C#. 
 
 ## Descripcion
 
