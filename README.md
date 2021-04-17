@@ -1,4 +1,4 @@
-# UAI - Programacion 1
+# Proyectos Programacion 1 - UAI
 
 Proyectos de la materia Programacion 1, la cual curse y aprobe en el año 2020. 
 
@@ -16,7 +16,7 @@ Fecha de inicio: 10/08/2020, Fecha de Fin: 27/11/2020 Este curso forma parte del
 * Utilizar herramientas de desarrollo de software de vanguardia.
 
 ### Habilidades y competencias desarrolladas en la asignatura
-* Desarrollar habilidades, conocimientos y destrezas en la aplicación de técnicas de manejo de archivos mediante la programación estructurada, apoyado en lenguaje C #.
+* Desarrollar habilidades, conocimientos y destrezas en la aplicación de técnicas de manejo de archivos mediante la programación estructurada, apoyado en lenguaje C#.
 * Desarrollar habilidades, conocimientos y destrezas en la aplicación de técnicas en la programación orientada a objetos, apoyada en un entorno de programación.
 * Desarrollar destrezas en el desarrollo de ejercitación en grupos, la interrelación personal, aplicando enfoques múltiples a un mismo problema.
 * Capacitarse para la implementación de estas soluciones dentro de la problemática del hombre y la sociedad, comprendiendo los avances tecnológicos.
